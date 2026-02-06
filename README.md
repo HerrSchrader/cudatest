@@ -1,8 +1,3 @@
-# cudatest
-# cudatest
-# cudatest
-# cudatest
-# cudatest
-# cudatest
-# cudatest
-# cudatest
+# test programmer für cuda
+
+
