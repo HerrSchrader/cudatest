@@ -1,3 +1,3 @@
-# test programmer für cuda
+# test programme für cuda
 
 
